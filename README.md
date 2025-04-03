@@ -1,16 +1,18 @@
 ## Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/89e4ca2d-1508-44b7-8dff-d64f226b5e1b.svg?style=flat)](https://wakatime.com/@89e4ca2d-1508-44b7-8dff-d64f226b5e1b)
 
-<!--
-**StefanBerecz/StefanBerecz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:
+  - A team collaboration: [Keller und Knilche - Gewinne maximieren, Helden minimieren](https://github.com/KellerUndKnilche/KellerUndKnilche) – a German-language browser-based idle game
+  - My Bachelor's degree in **Computer Science**
+- 🌱 I’m currently learning:
+  - **Azure DevOps**, **GitHub Actions** & CI/CD pipeline automation 
+  - Object-Oriented Programming in **C++**
+  - **Containerization** and **Virtualization** (e.g., Docker, local VM environments)
+- ⚡ My Areas of Interest:
+  - **Cloud Computing** & DevOps
+  - **Artificial Intelligence** & Machine Learning
+  - **IT Security** & Network architecture
+  - Working with **Linux** (servers) and exploring server-side configurations
+  - **Self-hosting** and open-source systems
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
