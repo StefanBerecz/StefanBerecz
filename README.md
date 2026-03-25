@@ -4,15 +4,18 @@
 - 🔭 I’m currently working on:
   - A team collaboration: [Keller und Knilche - Gewinne maximieren, Helden minimieren](https://github.com/KellerUndKnilche/KellerUndKnilche) – a German-language browser-based idle game
   - My Bachelor's degree in **Computer Science**
+  - My **Azure Administrator Associate** certification (Az-104)
 - 🌱 I’m currently learning:
-  - **Azure DevOps**, **GitHub Actions** & CI/CD pipeline automation 
-  - Object-Oriented Programming in **C++**
+  - **Azure Administration** & Security and Compliance
+  - **GitHub Actions** & CI/CD pipeline automation 
   - **Containerization** and **Virtualization** (e.g., Docker, local VM environments)
+  - Object-Oriented Programming in **C++**
+  - Powershell scripting
 - ⚡ My Areas of Interest:
-  - **Cloud Computing** & DevOps
-  - **Artificial Intelligence** & Machine Learning
-  - **IT Security** & Network architecture
-  - Working with **Linux** (servers) and exploring server-side configurations
+  - **Azure Cloud Environments** & Powershell Scripting
   - **Self-hosting** and open-source systems
+  - Working with **Linux** (servers) and exploring server-side applications
+  - **IT Security** & Network architecture
+  - **Cloud Computing** & DevOps
 
   
